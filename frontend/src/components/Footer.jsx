@@ -55,7 +55,7 @@ const Footer = () => (
     {/* Copyright Section */}
     <Box sx={{ marginTop: '16px' }}>
       <Typography variant="body2">
-        &copy; 2025 Ridma Sathsara. All rights reserved.
+        &copy; 2025 Student Managment Dashboard. All rights reserved.
       </Typography>
     </Box>
   </Box>
